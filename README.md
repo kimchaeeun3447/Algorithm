@@ -4,6 +4,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 
 ### 알고리즘 풀기 Let's GO
 [Bronze-백준2864](Algorithm/백준/Bronze/2864. 5와 6의 차이/)
+
 [Silver-백준11399](Algorithm/백준/Silver/11399. ATM/)
 <br>
 
