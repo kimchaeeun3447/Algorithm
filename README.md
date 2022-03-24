@@ -6,6 +6,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 [Bronze-백준2864](Algorithm/백준/Bronze/2864. 5와 6의 차이/)
 
 [Silver-백준11399](Algorithm/백준/Silver/11399. ATM/)
+
+[Silver-백준11047](Algorithm/백준/Silver/11047. 동전 0/)
 <br>
 
 ---
