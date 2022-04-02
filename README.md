@@ -1,5 +1,8 @@
 # Algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+코테 준비
+
+
+
 <br><br><br>
 
 ### 알고리즘 풀기 Let's GO
@@ -13,3 +16,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ---
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
 [1강](https://github.com/kimchaeeun3447/Algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C%202021/1%EA%B0%95_%EC%A4%91%EC%9A%94%EB%AC%B8%EB%B2%95_%EC%9C%A0%EC%9A%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
+
+This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
