@@ -11,6 +11,8 @@
 [Silver-백준11399](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)
 
 [Silver-백준11047](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850)
+
+[Silver-백준2697](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2697.%E2%80%85%EB%8B%A4%EC%9D%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)
 <br>
 
 ---
