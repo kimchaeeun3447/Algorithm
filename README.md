@@ -3,11 +3,13 @@
 <br><br>
 
 ### 알고리즘 풀기 Let's GO
-
-[Bronze-백준2864](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2864.%E2%80%855%EC%99%80%E2%80%856%EC%9D%98%E2%80%85%EC%B0%A8%EC%9D%B4)&nbsp;&nbsp;
-[Silver-백준11047](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850)&nbsp;&nbsp;
-[Silver-백준11399](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)&nbsp;&nbsp;
-[Silver-백준2697](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2697.%E2%80%85%EB%8B%A4%EC%9D%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)&nbsp;&nbsp;<br><br>
+|백준|레벨|제목|
+|:---:|:---:|:---:|
+|2864|Bronze|[5와 6의 차이](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2864.%E2%80%855%EC%99%80%E2%80%856%EC%9D%98%E2%80%85%EC%B0%A8%EC%9D%B4)|
+|11047|Silver|[동전 0](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850)|
+|11399|Silver|[ATM](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)|
+|2697|Silver|[다음수 구하기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/2697.%E2%80%85%EB%8B%A4%EC%9D%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0)|
+|1543|Silver|[문서 검색](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1543.%E2%80%85%EB%AC%B8%EC%84%9C%E2%80%85%EA%B2%80%EC%83%89)|
 
 ---
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
