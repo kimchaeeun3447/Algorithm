@@ -13,6 +13,7 @@
 |10974|Silver3|[모든 순열](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/10974.%E2%80%85%EB%AA%A8%EB%93%A0%E2%80%85%EC%88%9C%EC%97%B4)|
 |15649|Silver3|[N과 M (1)](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/15649.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%881%EF%BC%89)|
 |1931|Silver1|[회의실 배정](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95)|
+|1541|Silver2|[잃어버린 괄호](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1541.%E2%80%85%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%E2%80%85%EA%B4%84%ED%98%B8)|
 
 
 ---
