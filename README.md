@@ -14,8 +14,10 @@
 |15649|Silver3|[N과 M (1)](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/15649.%E2%80%85N%EA%B3%BC%E2%80%85M%E2%80%85%EF%BC%881%EF%BC%89)|
 |1931|Silver1|[회의실 배정](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1931.%E2%80%85%ED%9A%8C%EC%9D%98%EC%8B%A4%E2%80%85%EB%B0%B0%EC%A0%95)|
 |1541|Silver2|[잃어버린 괄호](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1541.%E2%80%85%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%E2%80%85%EA%B4%84%ED%98%B8)|
-
-
+---
+|프로그래머스|레벨|제목|
+|:---:|:---:|:---:|
+|77484|level1|[로또의 최고 순위와 최저 순위](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/77484.%E2%80%85%EB%A1%9C%EB%98%90%EC%9D%98%E2%80%85%EC%B5%9C%EA%B3%A0%E2%80%85%EC%88%9C%EC%9C%84%EC%99%80%E2%80%85%EC%B5%9C%EC%A0%80%E2%80%85%EC%88%9C%EC%9C%84)|
 ---
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
 [1강-주요문법](https://github.com/kimchaeeun3447/Algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C%202021/1%EA%B0%95_%EC%A4%91%EC%9A%94%EB%AC%B8%EB%B2%95_%EC%9C%A0%EC%9A%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md) <br>
