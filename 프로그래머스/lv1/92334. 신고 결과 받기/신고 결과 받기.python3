@@ -1,0 +1,27 @@
+def solution(id_list, report, k):
+    answer = [0] * len(id_list)
+    report = set(report)
+    reportUser = {}
+    reportCount = {}
+    
+    for s in report:
+        a, b = s.split() 
+        
+        if b not in reportCount:
+            reportCount[b] = 1
+        else:
+            reportCount[b] += 1
+            
+        if a not in reportUser:
+            reportUser[a] = [b]
+        else:
+            if b not in reportUser[a]:
+                reportUser[a].append(b)
+
+    for user, cnt  in reportCount.items():
+        if cnt >= k:
+            for user1, user2_list in reportUser.items():
+                if user in user2_list:
+                    answer[id_list.index(user1)] += 1
+
+    return answer
