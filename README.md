@@ -1,5 +1,5 @@
 # Algorithm
-코테
+알고리즘 공부
 <br><br>
 
 ### 알고리즘 풀기 Let's GO
