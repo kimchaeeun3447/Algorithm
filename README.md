@@ -21,7 +21,7 @@
 |81301|level1|[숫자 문자열과 영단어](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/81301.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%E2%80%85%EC%98%81%EB%8B%A8%EC%96%B4)|
 |92334|level1|[신고 결과 받기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/92334.%E2%80%85%EC%8B%A0%EA%B3%A0%E2%80%85%EA%B2%B0%EA%B3%BC%E2%80%85%EB%B0%9B%EA%B8%B0)|
 |118666|level1|[성격 유형 검사하기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/118666.%E2%80%85%EC%84%B1%EA%B2%A9%E2%80%85%EC%9C%A0%ED%98%95%E2%80%85%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)|
-|68935|level1|3진법 뒤집기(https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)|
+|68935|level1|[3진법 뒤집기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)|
 |70129|level2|[이진 변환 반복하기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/70129.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EB%B3%80%ED%99%98%E2%80%85%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)|
 ---
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
