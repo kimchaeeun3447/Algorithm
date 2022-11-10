@@ -22,6 +22,7 @@
 |118666|level1|[성격 유형 검사하기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/118666.%E2%80%85%EC%84%B1%EA%B2%A9%E2%80%85%EC%9C%A0%ED%98%95%E2%80%85%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)|
 |68935|level1|[3진법 뒤집기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/68935.%E2%80%853%EC%A7%84%EB%B2%95%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0)|
 |77884|level1|[약수의 개수와 덧셈](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/77884.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98%EC%99%80%E2%80%85%EB%8D%A7%EC%85%88)|
+|42748|level1|[K번째 수](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42748.%E2%80%85K%EB%B2%88%EC%A7%B8%EC%88%98)|
 |70129|level2|[이진 변환 반복하기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/70129.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EB%B3%80%ED%99%98%E2%80%85%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)|
 ---
 ### 이것이 취업을 위한 코딩 테스트다 with 파이썬
