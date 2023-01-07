@@ -13,7 +13,7 @@
 |1541|Silver2|[잃어버린 괄호](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1541.%E2%80%85%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%E2%80%85%EA%B4%84%ED%98%B8)|
 |1065|Silver4|[한수](https://github.com/kimchaeeun3447/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)|
 ---
-|프로그래머스|레벨|제목|
+|프로그래머스|level|제목|
 |:---:|:---:|:---:|
 |77484|level1|[로또의 최고 순위와 최저 순위](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/77484.%E2%80%85%EB%A1%9C%EB%98%90%EC%9D%98%E2%80%85%EC%B5%9C%EA%B3%A0%E2%80%85%EC%88%9C%EC%9C%84%EC%99%80%E2%80%85%EC%B5%9C%EC%A0%80%E2%80%85%EC%88%9C%EC%9C%84)|
 |72410|level1|[신규 아이디 추천](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/72410.%E2%80%85%EC%8B%A0%EA%B7%9C%E2%80%85%EC%95%84%EC%9D%B4%EB%94%94%E2%80%85%EC%B6%94%EC%B2%9C)|
