@@ -24,6 +24,7 @@
 |77884|level1|[약수의 개수와 덧셈](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/77884.%E2%80%85%EC%95%BD%EC%88%98%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98%EC%99%80%E2%80%85%EB%8D%A7%EC%85%88)|
 |42748|level1|[K번째 수](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42748.%E2%80%85K%EB%B2%88%EC%A7%B8%EC%88%98)|
 |70129|level2|[이진 변환 반복하기](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/70129.%E2%80%85%EC%9D%B4%EC%A7%84%E2%80%85%EB%B3%80%ED%99%98%E2%80%85%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)|
+|42746|level2|[가장 큰 수](https://github.com/kimchaeeun3447/Algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv2/42746.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EC%88%98)|
 ---
 ### 이것이 취업을 위한 코딩 테스트다 강의 with 파이썬
 [1강-주요문법](https://github.com/kimchaeeun3447/Algorithm/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C%202021/1%EA%B0%95_%EC%A4%91%EC%9A%94%EB%AC%B8%EB%B2%95_%EC%9C%A0%EC%9A%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md) <br>
