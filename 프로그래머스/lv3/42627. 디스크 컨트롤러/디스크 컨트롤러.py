@@ -1,35 +1,34 @@
 '''
-요청에서 종료까지 시간 = 이전 작업의 소요시간 - 자신의 작업요청시점 + 자신의 작업 소요시간
-
-- 하드디스크가 작업을 수행하고 있지 않을 때에는 먼저 요청이 들어온 작업부터 처리합니다.
-
-전체 작업시간을 줄이는 방법 : 현 시점에 처리가능한 작업중에서, 소요시간이 덜걸리는 작업 우선 처리
+- 현시점에서 실행할 수 있는 프로세스 중 최소소요 시간 택
+- 소요시간 = (이전 프로세스 소요시간 + 내 소요시간 - 요청시간)
+- 현 프로세스 작업 후 -> 현시간 갱신 -> 현 시점에서 실행가능한 프로세스들 우선순위 큐에 넣음(최소힙)
 '''
-
 import heapq
 
 def solution(jobs):
-    answer, now, i = 0, 0, 0
-    start = -1 
+    answer, now, i = 0, 0, 0 #총 걸린 시간 누적, 현 시점, 작업 완료한 프로세스 개수
+    start = -1 # 이전 프로세스 시점
+    l = len(jobs)
     heap = []
-
-    # 전체 작업개수만큼 반복
-    while i < len(jobs):
-        # 현재 시점에서 처리할 수 있는 작업을 heap에 저장
+    
+    # 모든 프로세스 돌았으면 끝
+    while i < l:
+        # 현시점에 실행가능한 프로세스 최소힙 삽입
         for j in jobs:
-            if start < j[0] <= now:
-                heapq.heappush(heap, [j[1], j[0]])
+            if start < j[0] <= now: # 이전 프로세스 이후에 온 것 부터 현 시점 이전에 온 것까지 삽입
+                heapq.heappush(heap, (j[1], j[0])) #(소요시간, 요청시점) 순으로 삽입 - 소요시간 기준 최소힙 생성
         
-        if len(heap) > 0: # 처리할 작업들이 있는 경우 - 제일 덜 걸리는 작업 처리
-            current = heapq.heappop(heap)
-            start = now
-            now += current[0] #현재 작업 소요시간 추가
-            answer += now - current[1] # 작업 요청시간 제거
-            i +=1
-        else: # 처리할 작업이 없는 경우 - 현재시간 + 1
+        # 가장 덜 걸리는 다음 프로세스 추출
+        if heap:
+            p = heapq.heappop(heap)
+            start = now # 이전 시점 갱신
+            now += p[0] # 현시점 갱신
+            i += 1 #프로세스 개수 갱신
+            
+            #요청부터 종료까지 걸린 시간
+            answer += now - p[1] # now(= 이전 프로세스 소요시간 + 내 소요시간) - 요청시점
+        else:
+            # 힙이 비어있으면 시간 + 1
             now += 1
-                
-    return answer // len(jobs)
-
-
-print(solution([[0, 3], [1, 9], [2, 6]]))
+        
+    return answer // l
