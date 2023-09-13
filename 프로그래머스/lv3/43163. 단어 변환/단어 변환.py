@@ -29,9 +29,9 @@ def solution(begin, target, words):
             if visited[idx]:
                 continue
             
-            diff_cnt = 0 # 글자수 차이
-            for i in range(length):
-                if w[i] != b[i]:
+            diff_cnt = 0 # 글자수 차이 계산
+            for _w, _b in zip(w, b):
+                if _w != _b:
                     diff_cnt += 1
                     
             #글자수 차이가 1개이면 큐에 추가
