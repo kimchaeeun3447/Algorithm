@@ -12,8 +12,6 @@
 - dp[i]의 의미 = i번째 인덱스까지의 최대 누적값
 '''
 def solution(money):
-    answer = 0
-    
     end = len(money) - 1
     
     dp1 = [] # 0번째 방문 DP -> 마지막 인덱스 포함 불가
